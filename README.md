@@ -1,6 +1,7 @@
-//Singly Linked List.
-#include<iostream> <br>
-#include<cstdlib> <br>
+# DATA STRUCTURE
+//Singly Linked List//<br>
+#include<iostream.h> <br>
+#include<cstdlib.h> <br>
 using namespace std; <br>
 struct node <br>
 { <br>
